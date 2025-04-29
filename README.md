@@ -114,7 +114,8 @@ module ripple_counter_4bit (
 
 endmodule
 
-// TestBench
+![ripple_counter_image](https://github.com/user-attachments/assets/875d4b2b-63a3-4da6-999e-e4fa23e01936)
+
 
 module ripple_counter_4bit_tb;
 
