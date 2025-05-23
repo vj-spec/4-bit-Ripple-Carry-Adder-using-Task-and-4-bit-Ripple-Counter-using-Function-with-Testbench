@@ -8,6 +8,7 @@ Computer with Vivado or any Verilog simulation software.
 Verilog HDL compiler.
 
 // Verilog Code
+```
 module ripple_carry_adder_4bit (
     input [3:0] A,      // 4-bit input A
     input [3:0] B,      // 4-bit input B
@@ -40,7 +41,7 @@ module ripple_carry_adder_4bit (
     assign Sum = sum_temp;
 
 endmodule
-
+```
 
 ![ripple_adder_image](https://github.com/user-attachments/assets/25e43b89-5581-487f-9d7d-8c8d9fd49813)
 
