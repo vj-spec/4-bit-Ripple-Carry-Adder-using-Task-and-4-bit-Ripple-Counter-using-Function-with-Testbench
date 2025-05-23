@@ -90,7 +90,7 @@ endmodule
 
 
 // Verilog Code ripple counter
-
+```
 module ripple_counter_4bit (
     input clk,           // Clock signal
     input reset,         // Reset signal
@@ -114,7 +114,7 @@ module ripple_counter_4bit (
     end
 
 endmodule
-
+```
 ![ripple_counter_image](https://github.com/user-attachments/assets/875d4b2b-63a3-4da6-999e-e4fa23e01936)
 
 
