@@ -7,6 +7,29 @@ To design and simulate a 4-bit Ripple Counter using Verilog HDL with a function 
 - Computer with Vivado or any Verilog simulation software.
 - Verilog HDL compiler.
 
+# Procedure
+### 1. Launch Vivado 2023.1
+- Open Vivado and create a new project.
+
+### 2. Write the Verilog Code for Ripple adder and counter:
+- 4-bit Ripple Carry Adder using task to implement the full adder functionality and verify its output using a testbench.
+- 4-bit Ripple Counter using function to calculate the next state and verify its functionality using a testbench.
+
+### 3. Create the Testbench:
+- Write a testbench to simulate the 4-bit Ripple Carry Adder and 4-bit Ripple Counter using function  . The testbench should plement the full adder functionality and calculate the next state.
+
+### 4. Add the Verilog Files:
+- Add the Verilog module and the testbench file to the Vivado project.
+
+### 5. Run Simulation:
+- Run the behavioral simulation in Vivado to verify the operation.
+
+### 6. Observe the Waveforms:
+- Examine the waveform to confirm that the values.
+
+### 7. Save and Document Results:
+- Capture the waveform output and include the results in your report for verification.
+
 // Verilog Code
 ```
 module ripple_carry_adder_4bit (
