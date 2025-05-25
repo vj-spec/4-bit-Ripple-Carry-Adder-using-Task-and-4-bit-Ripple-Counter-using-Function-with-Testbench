@@ -111,6 +111,9 @@ module ripple_carry_adder_4bit_tb;
 
 endmodule
 ```
+## Output
+![image](https://github.com/user-attachments/assets/39708251-036f-460f-a152-9b2f2aac2213)
+
 
 // Verilog Code ripple counter
 ```
