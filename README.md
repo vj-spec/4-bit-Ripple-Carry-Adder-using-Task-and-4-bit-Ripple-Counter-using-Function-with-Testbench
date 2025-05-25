@@ -65,6 +65,7 @@ module ripple_carry_adder_4bit (
 
 endmodule
 ```
+## Output
 
 ![ripple_adder_image](https://github.com/user-attachments/assets/25e43b89-5581-487f-9d7d-8c8d9fd49813)
 
@@ -141,6 +142,7 @@ module ripple_counter_4bit (
 
 endmodule
 ```
+## Output
 ![ripple_counter_image](https://github.com/user-attachments/assets/875d4b2b-63a3-4da6-999e-e4fa23e01936)
 
 ```
